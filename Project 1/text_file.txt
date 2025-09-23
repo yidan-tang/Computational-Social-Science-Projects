@@ -1,0 +1,9 @@
+git clone https://github.com/yidantang-cloud/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir "Project 1"
+cd "Project 1"
+vim "text_file.txt"
+git add *
+git commit -m "Project 1 commands file"
+git push
+~          
